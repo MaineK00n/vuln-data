@@ -4,14 +4,14 @@
   "Description": "",
   "Package": [
     {
-      "PackageName": "racket",
+      "PackageName": "libwmf",
       "Release": [
         {
           "ProductName": "bookworm",
-          "Status": "resolved",
-          "FixedVersion": "5.0.2-1",
+          "Status": "open",
+          "FixedVersion": "",
           "Urgency": "unimportant",
-          "Version": "8.2+dfsg1-2"
+          "Version": "0.2.8.4-17"
         }
       ]
     },
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "PackageName": "libwmf",
+      "PackageName": "racket",
       "Release": [
         {
           "ProductName": "bookworm",
-          "Status": "open",
-          "FixedVersion": "",
+          "Status": "resolved",
+          "FixedVersion": "5.0.2-1",
           "Urgency": "unimportant",
-          "Version": "0.2.8.4-17"
+          "Version": "8.2+dfsg1-2"
         }
       ]
     }

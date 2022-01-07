@@ -4,30 +4,6 @@
   "Description": "",
   "Package": [
     {
-      "PackageName": "lynx",
-      "Release": [
-        {
-          "ProductName": "stretch",
-          "Status": "resolved",
-          "FixedVersion": "2.8.7rel.1-1",
-          "Urgency": "unimportant",
-          "Version": "2.8.9dev11-1"
-        }
-      ]
-    },
-    {
-      "PackageName": "w3m",
-      "Release": [
-        {
-          "ProductName": "stretch",
-          "Status": "open",
-          "FixedVersion": "",
-          "Urgency": "unimportant",
-          "Version": "0.5.3-34+deb9u1"
-        }
-      ]
-    },
-    {
       "PackageName": "chromium-browser",
       "Release": [
         {
@@ -48,6 +24,30 @@
           "FixedVersion": "0",
           "Urgency": "unimportant",
           "Version": "3.0.5-3"
+        }
+      ]
+    },
+    {
+      "PackageName": "w3m",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "0.5.3-34+deb9u1"
+        }
+      ]
+    },
+    {
+      "PackageName": "lynx",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.8.7rel.1-1",
+          "Urgency": "unimportant",
+          "Version": "2.8.9dev11-1"
         }
       ]
     }

@@ -4,18 +4,6 @@
   "Description": "",
   "Package": [
     {
-      "PackageName": "squid",
-      "Release": [
-        {
-          "ProductName": "bookworm",
-          "Status": "resolved",
-          "FixedVersion": "0",
-          "Urgency": "unimportant",
-          "Version": "5.2-1"
-        }
-      ]
-    },
-    {
       "PackageName": "lighttpd",
       "Release": [
         {
@@ -24,6 +12,18 @@
           "FixedVersion": "0",
           "Urgency": "unimportant",
           "Version": "1.4.63-1"
+        }
+      ]
+    },
+    {
+      "PackageName": "squid",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "5.2-1"
         }
       ]
     }

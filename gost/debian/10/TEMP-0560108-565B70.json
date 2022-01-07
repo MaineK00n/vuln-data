@@ -16,18 +16,6 @@
       ]
     },
     {
-      "PackageName": "kde4libs",
-      "Release": [
-        {
-          "ProductName": "buster",
-          "Status": "open",
-          "FixedVersion": "",
-          "Urgency": "unimportant",
-          "Version": "4:4.14.38-3"
-        }
-      ]
-    },
-    {
       "PackageName": "dillo",
       "Release": [
         {
@@ -48,6 +36,18 @@
           "FixedVersion": "",
           "Urgency": "unimportant",
           "Version": "3.32.1.2-3~deb10u1"
+        }
+      ]
+    },
+    {
+      "PackageName": "kde4libs",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "4:4.14.38-3"
         }
       ]
     }

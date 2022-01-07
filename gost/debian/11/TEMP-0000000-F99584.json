@@ -4,18 +4,6 @@
   "Description": "",
   "Package": [
     {
-      "PackageName": "squid",
-      "Release": [
-        {
-          "ProductName": "bullseye",
-          "Status": "resolved",
-          "FixedVersion": "0",
-          "Urgency": "unimportant",
-          "Version": "4.13-10"
-        }
-      ]
-    },
-    {
       "PackageName": "lighttpd",
       "Release": [
         {
@@ -24,6 +12,18 @@
           "FixedVersion": "0",
           "Urgency": "unimportant",
           "Version": "1.4.59-1"
+        }
+      ]
+    },
+    {
+      "PackageName": "squid",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "4.13-10"
         }
       ]
     }

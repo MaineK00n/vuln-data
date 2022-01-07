@@ -4,7 +4,7 @@
   "Description": "",
   "Package": [
     {
-      "PackageName": "exfat-utils",
+      "PackageName": "fuse-exfat",
       "Release": [
         {
           "ProductName": "stretch",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "PackageName": "fuse-exfat",
+      "PackageName": "exfat-utils",
       "Release": [
         {
           "ProductName": "stretch",

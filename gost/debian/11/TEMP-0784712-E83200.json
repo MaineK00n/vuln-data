@@ -4,18 +4,6 @@
   "Description": "",
   "Package": [
     {
-      "PackageName": "mew",
-      "Release": [
-        {
-          "ProductName": "bullseye",
-          "Status": "resolved",
-          "FixedVersion": "1:6.6-3",
-          "Urgency": "not yet assigned",
-          "Version": "1:6.8-13"
-        }
-      ]
-    },
-    {
       "PackageName": "mew-beta",
       "Release": [
         {
@@ -36,6 +24,18 @@
           "FixedVersion": "1.14.7~0.20120428-17",
           "Urgency": "not yet assigned",
           "Version": "1.14.7~0.20201115-2"
+        }
+      ]
+    },
+    {
+      "PackageName": "mew",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1:6.6-3",
+          "Urgency": "not yet assigned",
+          "Version": "1:6.8-13"
         }
       ]
     }

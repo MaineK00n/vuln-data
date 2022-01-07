@@ -16,18 +16,6 @@
       ]
     },
     {
-      "PackageName": "kde4libs",
-      "Release": [
-        {
-          "ProductName": "stretch",
-          "Status": "open",
-          "FixedVersion": "",
-          "Urgency": "unimportant",
-          "Version": "4:4.14.26-2"
-        }
-      ]
-    },
-    {
       "PackageName": "dillo",
       "Release": [
         {
@@ -48,6 +36,18 @@
           "FixedVersion": "",
           "Urgency": "unimportant",
           "Version": "3.22.7-1"
+        }
+      ]
+    },
+    {
+      "PackageName": "kde4libs",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "4:4.14.26-2"
         }
       ]
     }

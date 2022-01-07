@@ -4,18 +4,6 @@
   "Description": "",
   "Package": [
     {
-      "PackageName": "nss",
-      "Release": [
-        {
-          "ProductName": "bullseye",
-          "Status": "resolved",
-          "FixedVersion": "2:3.23-1",
-          "Urgency": "low",
-          "Version": "2:3.61-1+deb11u1"
-        }
-      ]
-    },
-    {
       "PackageName": "nspr",
       "Release": [
         {
@@ -24,6 +12,18 @@
           "FixedVersion": "2:4.12-1",
           "Urgency": "low",
           "Version": "2:4.29-1"
+        }
+      ]
+    },
+    {
+      "PackageName": "nss",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "2:3.23-1",
+          "Urgency": "low",
+          "Version": "2:3.61-1+deb11u1"
         }
       ]
     }

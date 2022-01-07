@@ -4,18 +4,6 @@
   "Description": "",
   "Package": [
     {
-      "PackageName": "openacs",
-      "Release": [
-        {
-          "ProductName": "stretch",
-          "Status": "resolved",
-          "FixedVersion": "5.5.1+dfsg-2",
-          "Urgency": "not yet assigned",
-          "Version": "5.9.0+dfsg-1"
-        }
-      ]
-    },
-    {
       "PackageName": "dotlrn",
       "Release": [
         {
@@ -24,6 +12,18 @@
           "FixedVersion": "2.5.0+dfsg-2",
           "Urgency": "not yet assigned",
           "Version": "2.5.0+dfsg2-1"
+        }
+      ]
+    },
+    {
+      "PackageName": "openacs",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "5.5.1+dfsg-2",
+          "Urgency": "not yet assigned",
+          "Version": "5.9.0+dfsg-1"
         }
       ]
     }

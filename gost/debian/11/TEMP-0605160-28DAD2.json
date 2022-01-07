@@ -16,14 +16,14 @@
       ]
     },
     {
-      "PackageName": "guake",
+      "PackageName": "gnumed-client",
       "Release": [
         {
           "ProductName": "bullseye",
           "Status": "resolved",
-          "FixedVersion": "0.4.2-3",
+          "FixedVersion": "0.8.5-1",
           "Urgency": "low",
-          "Version": "3.6.3-2"
+          "Version": "1.8.5+dfsg-2"
         }
       ]
     },
@@ -40,6 +40,18 @@
       ]
     },
     {
+      "PackageName": "guake",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0.4.2-3",
+          "Urgency": "low",
+          "Version": "3.6.3-2"
+        }
+      ]
+    },
+    {
       "PackageName": "pymca",
       "Release": [
         {
@@ -48,18 +60,6 @@
           "FixedVersion": "4.4.1p1-1",
           "Urgency": "low",
           "Version": "5.6.3+dfsg-1"
-        }
-      ]
-    },
-    {
-      "PackageName": "gnumed-client",
-      "Release": [
-        {
-          "ProductName": "bullseye",
-          "Status": "resolved",
-          "FixedVersion": "0.8.5-1",
-          "Urgency": "low",
-          "Version": "1.8.5+dfsg-2"
         }
       ]
     }

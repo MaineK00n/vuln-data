@@ -4,18 +4,6 @@
   "Description": "",
   "Package": [
     {
-      "PackageName": "squid3",
-      "Release": [
-        {
-          "ProductName": "stretch",
-          "Status": "resolved",
-          "FixedVersion": "0",
-          "Urgency": "unimportant",
-          "Version": "3.5.23-5+deb9u1"
-        }
-      ]
-    },
-    {
       "PackageName": "lighttpd",
       "Release": [
         {
@@ -24,6 +12,18 @@
           "FixedVersion": "0",
           "Urgency": "unimportant",
           "Version": "1.4.45-1"
+        }
+      ]
+    },
+    {
+      "PackageName": "squid3",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "3.5.23-5+deb9u1"
         }
       ]
     }

@@ -4,6 +4,18 @@
   "Description": "",
   "Package": [
     {
+      "PackageName": "pybliographer",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.2.14-3",
+          "Urgency": "low",
+          "Version": "1.2.16-1"
+        }
+      ]
+    },
+    {
       "PackageName": "distcc",
       "Release": [
         {
@@ -12,6 +24,18 @@
           "FixedVersion": "3.1-3.2",
           "Urgency": "low",
           "Version": "3.1-6.2"
+        }
+      ]
+    },
+    {
+      "PackageName": "gnumed-client",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.8.5-1",
+          "Urgency": "low",
+          "Version": "1.6.11+dfsg-3"
         }
       ]
     },
@@ -28,14 +52,14 @@
       ]
     },
     {
-      "PackageName": "guake",
+      "PackageName": "snappea",
       "Release": [
         {
           "ProductName": "stretch",
           "Status": "resolved",
-          "FixedVersion": "0.4.2-3",
+          "FixedVersion": "3.0d3-20",
           "Urgency": "low",
-          "Version": "0.8.8-1"
+          "Version": "3.0d3-24"
         }
       ]
     },
@@ -52,6 +76,18 @@
       ]
     },
     {
+      "PackageName": "guake",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.4.2-3",
+          "Urgency": "low",
+          "Version": "0.8.8-1"
+        }
+      ]
+    },
+    {
       "PackageName": "pymca",
       "Release": [
         {
@@ -60,42 +96,6 @@
           "FixedVersion": "4.4.1p1-1",
           "Urgency": "low",
           "Version": "5.1.3+dfsg-1"
-        }
-      ]
-    },
-    {
-      "PackageName": "pybliographer",
-      "Release": [
-        {
-          "ProductName": "stretch",
-          "Status": "resolved",
-          "FixedVersion": "1.2.14-3",
-          "Urgency": "low",
-          "Version": "1.2.16-1"
-        }
-      ]
-    },
-    {
-      "PackageName": "snappea",
-      "Release": [
-        {
-          "ProductName": "stretch",
-          "Status": "resolved",
-          "FixedVersion": "3.0d3-20",
-          "Urgency": "low",
-          "Version": "3.0d3-24"
-        }
-      ]
-    },
-    {
-      "PackageName": "gnumed-client",
-      "Release": [
-        {
-          "ProductName": "stretch",
-          "Status": "resolved",
-          "FixedVersion": "0.8.5-1",
-          "Urgency": "low",
-          "Version": "1.6.11+dfsg-3"
         }
       ]
     },

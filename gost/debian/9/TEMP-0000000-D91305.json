@@ -4,18 +4,6 @@
   "Description": "",
   "Package": [
     {
-      "PackageName": "tcpdf",
-      "Release": [
-        {
-          "ProductName": "stretch",
-          "Status": "resolved",
-          "FixedVersion": "6.0.010+dfsg-1",
-          "Urgency": "not yet assigned",
-          "Version": "6.2.12+dfsg2-1"
-        }
-      ]
-    },
-    {
       "PackageName": "phpmyadmin",
       "Release": [
         {
@@ -24,6 +12,18 @@
           "FixedVersion": "0",
           "Urgency": "unimportant",
           "Version": "4:4.6.6-4+deb9u1"
+        }
+      ]
+    },
+    {
+      "PackageName": "tcpdf",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "6.0.010+dfsg-1",
+          "Urgency": "not yet assigned",
+          "Version": "6.2.12+dfsg2-1"
         }
       ]
     }
