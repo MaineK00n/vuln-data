@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0785364-25992B",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "php-horde",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "5.2.5+debian0-1",
+          "Urgency": "not yet assigned",
+          "Version": "5.2.13+debian0-1+deb9u2"
+        }
+      ]
+    }
+  ]
+}

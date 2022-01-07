@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0407607-240F77",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "python-django",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0.95.1-1",
+          "Urgency": "not yet assigned",
+          "Version": "2:2.2.25-1~deb11u1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-425714",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "argyll",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "1.9.2+repack-1"
+        }
+      ]
+    }
+  ]
+}

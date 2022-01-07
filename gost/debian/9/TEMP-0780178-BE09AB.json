@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0780178-BE09AB",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "armagetronad",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.2.8.3.2-4",
+          "Urgency": "not yet assigned",
+          "Version": "0.2.8.3.4-1"
+        }
+      ]
+    }
+  ]
+}

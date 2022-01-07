@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-F53EE4",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ibid",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.1.1+dfsg-1",
+          "Urgency": "not yet assigned",
+          "Version": "0.1.1+dfsg-4"
+        }
+      ]
+    }
+  ]
+}

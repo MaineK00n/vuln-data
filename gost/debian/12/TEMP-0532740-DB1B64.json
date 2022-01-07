@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0532740-DB1B64",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libdkim",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "1:1.0.19-4",
+          "Urgency": "unimportant",
+          "Version": "1:1.0.21-4"
+        }
+      ]
+    }
+  ]
+}

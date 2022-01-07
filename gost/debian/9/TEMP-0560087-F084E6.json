@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0560087-F084E6",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "xpat2",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.07-17",
+          "Urgency": "unimportant",
+          "Version": "1.07-20"
+        }
+      ]
+    }
+  ]
+}

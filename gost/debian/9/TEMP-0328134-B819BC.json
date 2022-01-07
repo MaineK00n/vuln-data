@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0328134-B819BC",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "snort",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.3.3-2",
+          "Urgency": "low",
+          "Version": "2.9.7.0-5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0868134-294030",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "t1utils",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.40-1",
+          "Urgency": "unimportant",
+          "Version": "1.41-3"
+        }
+      ]
+    }
+  ]
+}

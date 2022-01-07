@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0504726-7A5872",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "universalindentgui",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.8.1-1.2",
+          "Urgency": "low",
+          "Version": "1.2.0-1.1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0784712-056A32",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "semi",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.14.7~0.20120428-17",
+          "Urgency": "not yet assigned",
+          "Version": "1.14.7~0.20120428-21"
+        }
+      ]
+    }
+  ]
+}

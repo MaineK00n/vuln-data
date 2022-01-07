@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0841257-B7CD60",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "sendmail",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "8.15.2-7",
+          "Urgency": "not yet assigned",
+          "Version": "8.15.2-8+deb9u1"
+        }
+      ]
+    }
+  ]
+}

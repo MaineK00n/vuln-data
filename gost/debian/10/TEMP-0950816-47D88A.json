@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0950816-47D88A",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "mpv",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "not yet assigned",
+          "Version": "0.29.1-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0412618-38583E",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "apg",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "2.2.3.dfsg.1-2",
+          "Urgency": "low",
+          "Version": "2.2.3.dfsg.1-5"
+        }
+      ]
+    }
+  ]
+}

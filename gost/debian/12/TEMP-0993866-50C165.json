@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0993866-50C165",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "rhonabwy",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0.9.13-4",
+          "Urgency": "not yet assigned",
+          "Version": "1.1.2-1"
+        }
+      ]
+    }
+  ]
+}

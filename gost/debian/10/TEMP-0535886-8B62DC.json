@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0535886-8B62DC",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "apache2",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.2.9-1",
+          "Urgency": "low",
+          "Version": "2.4.38-3+deb10u5"
+        }
+      ]
+    }
+  ]
+}

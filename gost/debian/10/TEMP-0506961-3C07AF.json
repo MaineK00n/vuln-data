@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0506961-3C07AF",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "auctex",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "11.83-7.3",
+          "Urgency": "low",
+          "Version": "11.91-2"
+        }
+      ]
+    }
+  ]
+}

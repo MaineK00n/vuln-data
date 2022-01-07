@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0352723-F61961",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "dpkg-sig",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.13",
+          "Urgency": "low",
+          "Version": "0.13.1+nmu4"
+        }
+      ]
+    }
+  ]
+}

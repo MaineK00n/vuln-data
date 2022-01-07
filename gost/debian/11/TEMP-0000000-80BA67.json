@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-80BA67",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "slixmpp",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.2.2-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.7.0-2"
+        }
+      ]
+    }
+  ]
+}

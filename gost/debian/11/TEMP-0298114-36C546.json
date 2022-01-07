@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0298114-36C546",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "nvi",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.79-22",
+          "Urgency": "medium",
+          "Version": "1.81.6-16"
+        }
+      ]
+    }
+  ]
+}

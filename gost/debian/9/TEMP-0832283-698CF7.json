@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0832283-698CF7",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "cakephp",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.6.7-1",
+          "Urgency": "not yet assigned",
+          "Version": "2.8.5-1"
+        }
+      ]
+    }
+  ]
+}

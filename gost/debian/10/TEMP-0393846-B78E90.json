@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0393846-B78E90",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "motion",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "3.2.3-2",
+          "Urgency": "low",
+          "Version": "4.1.1-1.1"
+        }
+      ]
+    }
+  ]
+}

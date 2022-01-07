@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0359745-ECBE05",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "webalizer",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.01.10-29",
+          "Urgency": "low",
+          "Version": "2.23.08-1"
+        }
+      ]
+    }
+  ]
+}

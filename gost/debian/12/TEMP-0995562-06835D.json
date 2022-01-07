@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0995562-06835D",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "rust-nix",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0.19.0-2",
+          "Urgency": "not yet assigned",
+          "Version": "0.23.0-1"
+        }
+      ]
+    }
+  ]
+}

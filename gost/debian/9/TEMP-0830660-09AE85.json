@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0830660-09AE85",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "leptonlib",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.73-5",
+          "Urgency": "unimportant",
+          "Version": "1.74.1-1"
+        }
+      ]
+    }
+  ]
+}

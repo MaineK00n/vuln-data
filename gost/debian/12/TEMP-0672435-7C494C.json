@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0672435-7C494C",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "x11vnc",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0.9.16-2",
+          "Urgency": "low",
+          "Version": "0.9.16-8"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-94515F",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "zile",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "2.0.4-2",
+          "Urgency": "not yet assigned",
+          "Version": "2.4.15-2"
+        }
+      ]
+    }
+  ]
+}

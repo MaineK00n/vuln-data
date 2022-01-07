@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0566326-9A899F",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "sqlite3",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "3.6.21-1",
+          "Urgency": "low",
+          "Version": "3.36.0-2"
+        }
+      ]
+    }
+  ]
+}

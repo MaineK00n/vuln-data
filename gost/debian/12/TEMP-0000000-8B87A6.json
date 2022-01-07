@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-8B87A6",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "mediawiki",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "1:1.27.0-1",
+          "Urgency": "not yet assigned",
+          "Version": "1:1.35.5-1"
+        }
+      ]
+    }
+  ]
+}

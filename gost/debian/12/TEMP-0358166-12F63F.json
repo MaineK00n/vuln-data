@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0358166-12F63F",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "hamlib",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "1.2.5-3",
+          "Urgency": "low",
+          "Version": "4.3.1-1"
+        }
+      ]
+    }
+  ]
+}

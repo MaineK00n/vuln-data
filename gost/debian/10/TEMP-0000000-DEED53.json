@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-DEED53",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "unrar-free",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1:0.0.1-2",
+          "Urgency": "not yet assigned",
+          "Version": "1:0.0.1+cvs20140707-4"
+        }
+      ]
+    }
+  ]
+}

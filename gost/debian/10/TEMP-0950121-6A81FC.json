@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0950121-6A81FC",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "opensmtpd",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "6.0.3p1-5+deb10u3",
+          "Urgency": "not yet assigned",
+          "Version": "6.0.3p1-5+deb10u4"
+        }
+      ]
+    }
+  ]
+}

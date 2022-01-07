@@ -1,0 +1,31 @@
+{
+  "CveID": "TEMP-0568486-B6FCB6",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "qt4-x11",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "4:4.8.7+dfsg-11"
+        }
+      ]
+    },
+    {
+      "PackageName": "kde4libs",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "4:4.14.26-2"
+        }
+      ]
+    }
+  ]
+}

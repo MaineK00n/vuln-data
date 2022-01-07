@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0523476-4CE9EF",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "pptp-linux",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.7.2-3",
+          "Urgency": "low",
+          "Version": "1.10.0-1"
+        }
+      ]
+    }
+  ]
+}

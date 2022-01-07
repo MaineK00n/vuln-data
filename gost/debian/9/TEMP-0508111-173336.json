@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0508111-173336",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "devscripts",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.10.42",
+          "Urgency": "low",
+          "Version": "2.17.6+deb9u2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-47E1CE",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "hp2xx",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "3.4.4-10",
+          "Urgency": "low",
+          "Version": "3.4.4-11"
+        }
+      ]
+    }
+  ]
+}

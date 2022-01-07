@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0427715-C31B61",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "webpy",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.210-1",
+          "Urgency": "unimportant",
+          "Version": "1:0.38-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0291613-A6DD69",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "xshisen",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.51-1-2",
+          "Urgency": "not yet assigned",
+          "Version": "1:1.51-6"
+        }
+      ]
+    }
+  ]
+}

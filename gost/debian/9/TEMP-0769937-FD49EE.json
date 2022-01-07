@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0769937-FD49EE",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "procmail",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "3.22-24",
+          "Urgency": "not yet assigned",
+          "Version": "3.22-25+deb9u1"
+        }
+      ]
+    }
+  ]
+}

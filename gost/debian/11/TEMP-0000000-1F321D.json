@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-1F321D",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "haproxy",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.5.12-1",
+          "Urgency": "not yet assigned",
+          "Version": "2.2.9-2+deb11u2"
+        }
+      ]
+    }
+  ]
+}

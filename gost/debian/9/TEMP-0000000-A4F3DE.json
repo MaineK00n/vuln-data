@@ -1,0 +1,31 @@
+{
+  "CveID": "TEMP-0000000-A4F3DE",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libmspack",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.5-1",
+          "Urgency": "not yet assigned",
+          "Version": "0.5-1+deb9u3"
+        }
+      ]
+    },
+    {
+      "PackageName": "cabextract",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.4-5",
+          "Urgency": "not yet assigned",
+          "Version": "1.6-1"
+        }
+      ]
+    }
+  ]
+}

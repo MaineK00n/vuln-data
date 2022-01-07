@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-62CF51",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libotr",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.0.2-1",
+          "Urgency": "not yet assigned",
+          "Version": "4.1.1-3"
+        }
+      ]
+    }
+  ]
+}

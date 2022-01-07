@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-1CC548",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "cgit",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.12.0.git2.7.0-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.2.1+git2.18.0-1"
+        }
+      ]
+    }
+  ]
+}

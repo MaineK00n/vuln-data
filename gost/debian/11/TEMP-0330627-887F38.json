@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0330627-887F38",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "rkhunter",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.2.7-14",
+          "Urgency": "medium",
+          "Version": "1.4.6-9"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-673AE0",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ikiwiki",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "1.42",
+          "Urgency": "low",
+          "Version": "3.20200202.3-1"
+        }
+      ]
+    }
+  ]
+}

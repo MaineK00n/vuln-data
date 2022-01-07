@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0772585-D41D8C",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "json-glib",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "1.2.6-1"
+        }
+      ]
+    }
+  ]
+}

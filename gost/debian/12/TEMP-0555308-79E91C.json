@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0555308-79E91C",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "xorg-server",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "2:1.7.2-1",
+          "Urgency": "low",
+          "Version": "2:1.20.13-3"
+        }
+      ]
+    }
+  ]
+}

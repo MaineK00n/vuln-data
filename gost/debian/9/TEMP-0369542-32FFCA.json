@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0369542-32FFCA",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ssmtp",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.61-10.1",
+          "Urgency": "low",
+          "Version": "2.64-8"
+        }
+      ]
+    }
+  ]
+}

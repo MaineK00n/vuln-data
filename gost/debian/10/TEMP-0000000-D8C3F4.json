@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-D8C3F4",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "gst-libav1.0",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.15.0.1+git20180723+db823502-2+deb10u1",
+          "Urgency": "not yet assigned",
+          "Version": "1.15.0.1+git20180723+db823502-2+deb10u1"
+        }
+      ]
+    }
+  ]
+}

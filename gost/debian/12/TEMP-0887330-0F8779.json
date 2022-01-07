@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0887330-0F8779",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "civicrm",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "4.7.30+dfsg-1",
+          "Urgency": "not yet assigned",
+          "Version": "5.33.2+dfsg1-1"
+        }
+      ]
+    }
+  ]
+}

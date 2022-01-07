@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-D41D8C",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "cinnamon-settings-daemon",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.8.3-1",
+          "Urgency": "low",
+          "Version": "3.8.4-2"
+        }
+      ]
+    }
+  ]
+}

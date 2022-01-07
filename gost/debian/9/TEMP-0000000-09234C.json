@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-09234C",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "flash-kernel",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.33",
+          "Urgency": "low",
+          "Version": "3.79"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0772585-D41D8C",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "json-glib",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "1.6.2-1"
+        }
+      ]
+    }
+  ]
+}

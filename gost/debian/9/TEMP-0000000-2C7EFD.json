@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-2C7EFD",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "smarty3",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "3.0.8-1",
+          "Urgency": "unimportant",
+          "Version": "3.1.31+20161214.1.c7d42e4+selfpack1-2+deb9u1"
+        }
+      ]
+    }
+  ]
+}

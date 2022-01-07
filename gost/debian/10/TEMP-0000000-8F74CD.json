@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-8F74CD",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "lintian",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.23.28",
+          "Urgency": "low",
+          "Version": "2.15.0"
+        }
+      ]
+    }
+  ]
+}

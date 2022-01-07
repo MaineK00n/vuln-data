@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0962629-FA7B70",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "rainloop",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "not yet assigned",
+          "Version": "1.12.1-2"
+        }
+      ]
+    }
+  ]
+}

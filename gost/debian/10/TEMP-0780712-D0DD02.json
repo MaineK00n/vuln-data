@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0780712-D0DD02",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "flightgear",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "3.0.0-5",
+          "Urgency": "not yet assigned",
+          "Version": "1:2018.3.2+dfsg-2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0169793-0E1404",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libnss-ldap",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "199-1",
+          "Urgency": "not yet assigned",
+          "Version": "265-5"
+        }
+      ]
+    }
+  ]
+}

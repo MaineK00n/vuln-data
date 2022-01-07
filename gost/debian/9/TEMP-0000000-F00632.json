@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-F00632",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "node-marked",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.3.1+dfsg-1",
+          "Urgency": "not yet assigned",
+          "Version": "0.3.6+dfsg-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-523402",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "brltty",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "5.4-7+deb9u1"
+        }
+      ]
+    }
+  ]
+}

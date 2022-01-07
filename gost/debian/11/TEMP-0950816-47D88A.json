@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0950816-47D88A",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "mpv",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0.32.0-2",
+          "Urgency": "not yet assigned",
+          "Version": "0.32.0-3"
+        }
+      ]
+    }
+  ]
+}

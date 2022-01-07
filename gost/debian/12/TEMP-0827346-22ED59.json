@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0827346-22ED59",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "automake1.11",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "1:1.11.6-4",
+          "Urgency": "unimportant",
+          "Version": "1:1.11.6-6"
+        }
+      ]
+    }
+  ]
+}

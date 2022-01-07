@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0327261-B6AE8F",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "wine",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.0.20050830-1",
+          "Urgency": "low",
+          "Version": "4.0-2"
+        }
+      ]
+    }
+  ]
+}

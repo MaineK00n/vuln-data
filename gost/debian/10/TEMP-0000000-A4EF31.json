@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-A4EF31",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "nghttp2",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "1.36.0-2+deb10u1"
+        }
+      ]
+    }
+  ]
+}

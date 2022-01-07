@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0358166-12F63F",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "hamlib",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.2.5-3",
+          "Urgency": "low",
+          "Version": "3.3-5"
+        }
+      ]
+    }
+  ]
+}

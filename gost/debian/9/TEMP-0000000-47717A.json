@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-47717A",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "gunicorn",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.14.5-3",
+          "Urgency": "low",
+          "Version": "19.6.0-10+deb9u1"
+        }
+      ]
+    }
+  ]
+}

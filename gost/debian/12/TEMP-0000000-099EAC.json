@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-099EAC",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "python-werkzeug",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0.3.1-1",
+          "Urgency": "not yet assigned",
+          "Version": "2.0.2+dfsg1-1"
+        }
+      ]
+    }
+  ]
+}

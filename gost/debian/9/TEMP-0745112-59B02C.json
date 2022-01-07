@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0745112-59B02C",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "obnam",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.8-1",
+          "Urgency": "low",
+          "Version": "1.21-1"
+        }
+      ]
+    }
+  ]
+}

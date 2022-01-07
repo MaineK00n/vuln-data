@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-E52D56",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "binutils",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.15-6",
+          "Urgency": "not yet assigned",
+          "Version": "2.31.1-16"
+        }
+      ]
+    }
+  ]
+}

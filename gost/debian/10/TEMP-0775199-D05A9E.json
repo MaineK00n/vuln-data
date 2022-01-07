@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0775199-D05A9E",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "mutt",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.5.24-1",
+          "Urgency": "unimportant",
+          "Version": "1.10.1-2.1+deb10u5"
+        }
+      ]
+    }
+  ]
+}

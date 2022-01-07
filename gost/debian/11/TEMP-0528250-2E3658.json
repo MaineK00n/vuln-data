@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0528250-2E3658",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "hex-a-hop",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "1.1.0+git20140926-1.1"
+        }
+      ]
+    }
+  ]
+}

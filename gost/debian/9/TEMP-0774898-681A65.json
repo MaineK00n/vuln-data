@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0774898-681A65",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "macchanger",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.7.0-5.3",
+          "Urgency": "not yet assigned",
+          "Version": "1.7.0-5.3"
+        }
+      ]
+    }
+  ]
+}

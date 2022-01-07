@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-4C54C0",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "atftp",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.7.dfsg-11",
+          "Urgency": "low",
+          "Version": "0.7.git20120829-3.1~deb9u1"
+        }
+      ]
+    }
+  ]
+}

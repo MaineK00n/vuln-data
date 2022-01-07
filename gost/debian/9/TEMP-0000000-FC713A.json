@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-FC713A",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "paste",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.0.1-1",
+          "Urgency": "not yet assigned",
+          "Version": "2.0.3+dfsg-4"
+        }
+      ]
+    }
+  ]
+}

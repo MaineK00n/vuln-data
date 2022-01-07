@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0319686-D21D67",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "xgalaga",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "2.0.34-31",
+          "Urgency": "low",
+          "Version": "2.1.1.0-6"
+        }
+      ]
+    }
+  ]
+}

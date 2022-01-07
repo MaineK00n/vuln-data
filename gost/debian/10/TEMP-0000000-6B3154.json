@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-6B3154",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "cernlib",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2004.11.04-3",
+          "Urgency": "not yet assigned",
+          "Version": "20061220+dfsg3-4.4"
+        }
+      ]
+    }
+  ]
+}

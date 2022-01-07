@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-A4EF31",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "nghttp2",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "1.43.0-1"
+        }
+      ]
+    }
+  ]
+}

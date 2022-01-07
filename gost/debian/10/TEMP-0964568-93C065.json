@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0964568-93C065",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "veyon",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "not yet assigned",
+          "Version": "4.1.7+repack1-1"
+        }
+      ]
+    }
+  ]
+}

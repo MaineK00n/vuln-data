@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0508111-173336",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "devscripts",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "2.10.42",
+          "Urgency": "low",
+          "Version": "2.21.7"
+        }
+      ]
+    }
+  ]
+}

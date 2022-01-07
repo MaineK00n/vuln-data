@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0846838-9738BD",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "tiff",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "4.0.7-2",
+          "Urgency": "unimportant",
+          "Version": "4.0.8-2+deb9u5"
+        }
+      ]
+    }
+  ]
+}

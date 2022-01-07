@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0607494-376E2E",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ftpcopy",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0.6.7-3",
+          "Urgency": "not yet assigned",
+          "Version": "0.6.7-5"
+        }
+      ]
+    }
+  ]
+}

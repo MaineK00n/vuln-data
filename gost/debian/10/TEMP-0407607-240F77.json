@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0407607-240F77",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "python-django",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.95.1-1",
+          "Urgency": "not yet assigned",
+          "Version": "1:1.11.29-1~deb10u1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0308737-BABD6A",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libosip2",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "2.0.9-1",
+          "Urgency": "not yet assigned",
+          "Version": "4.1.0-2.1"
+        }
+      ]
+    }
+  ]
+}

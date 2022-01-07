@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-5337A6",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "lhasa",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.2.0-1",
+          "Urgency": "not yet assigned",
+          "Version": "0.3.1-3"
+        }
+      ]
+    }
+  ]
+}

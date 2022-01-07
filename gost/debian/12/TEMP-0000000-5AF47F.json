@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-5AF47F",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "postgrey",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "1.21-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.36-5.2"
+        }
+      ]
+    }
+  ]
+}

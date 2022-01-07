@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0925959-45DD25",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "open-vm-tools",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2:10.3.10-1",
+          "Urgency": "unimportant",
+          "Version": "2:10.3.10-1+deb10u2"
+        }
+      ]
+    }
+  ]
+}

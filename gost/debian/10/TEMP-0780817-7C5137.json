@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0780817-7C5137",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "dokuwiki",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.0.20140929.d-1",
+          "Urgency": "not yet assigned",
+          "Version": "0.0.20180422.a-2"
+        }
+      ]
+    }
+  ]
+}

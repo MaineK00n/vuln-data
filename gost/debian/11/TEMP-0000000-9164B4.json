@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-9164B4",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "steam",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "1.0.0.68-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0528250-2E3658",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "hex-a-hop",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "0.0.20070315-8"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-2D8F93",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "isc-dhcp",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "4.4.1-2+deb10u1"
+        }
+      ]
+    }
+  ]
+}

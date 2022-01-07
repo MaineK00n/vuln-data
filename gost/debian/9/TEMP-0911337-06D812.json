@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0911337-06D812",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "drupal7",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "7.52-2+deb9u5",
+          "Urgency": "not yet assigned",
+          "Version": "7.52-2+deb9u11"
+        }
+      ]
+    }
+  ]
+}

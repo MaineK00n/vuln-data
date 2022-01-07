@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-19B927",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "linux",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "4.4.4-1",
+          "Urgency": "not yet assigned",
+          "Version": "5.10.84-1"
+        }
+      ]
+    }
+  ]
+}

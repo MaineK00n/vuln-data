@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-F7A20F",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "linux",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "5.10.84-1"
+        }
+      ]
+    }
+  ]
+}

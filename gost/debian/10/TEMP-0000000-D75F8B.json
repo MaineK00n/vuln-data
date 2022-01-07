@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-D75F8B",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "gitlab-shell",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "8.4.3+dfsg1-1"
+        }
+      ]
+    }
+  ]
+}

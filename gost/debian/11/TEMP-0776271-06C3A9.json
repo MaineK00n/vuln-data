@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0776271-06C3A9",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "patch",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "2.7.4-1",
+          "Urgency": "low",
+          "Version": "2.7.6-7"
+        }
+      ]
+    }
+  ]
+}

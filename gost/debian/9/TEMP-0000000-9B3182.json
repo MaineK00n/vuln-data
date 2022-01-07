@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-9B3182",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "schroot",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "1.6.10-3+deb9u1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0528434-FDFF92",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "cron",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "3.0pl1-106",
+          "Urgency": "low",
+          "Version": "3.0pl1-137"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0517018-A83CE6",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "sysvinit",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "2.93-8"
+        }
+      ]
+    }
+  ]
+}

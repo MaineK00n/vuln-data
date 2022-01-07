@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-269968",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "xorg",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1:7.6+10",
+          "Urgency": "low",
+          "Version": "1:7.7+19"
+        }
+      ]
+    }
+  ]
+}

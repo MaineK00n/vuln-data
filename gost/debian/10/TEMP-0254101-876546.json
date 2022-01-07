@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0254101-876546",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "isoqlog",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.2-0.1",
+          "Urgency": "not yet assigned",
+          "Version": "2.2.1-9"
+        }
+      ]
+    }
+  ]
+}

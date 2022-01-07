@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-2025B8",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ruby-rack-attack",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "4.3.1-1",
+          "Urgency": "not yet assigned",
+          "Version": "4.3.1-1"
+        }
+      ]
+    }
+  ]
+}

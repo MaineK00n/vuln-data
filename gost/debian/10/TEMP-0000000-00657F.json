@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-00657F",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "pure-ftpd",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.0.21-1",
+          "Urgency": "low",
+          "Version": "1.0.47-3"
+        }
+      ]
+    }
+  ]
+}

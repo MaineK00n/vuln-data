@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0425254-0F9CE1",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "wdiff",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.5-18",
+          "Urgency": "low",
+          "Version": "1.2.2-2"
+        }
+      ]
+    }
+  ]
+}

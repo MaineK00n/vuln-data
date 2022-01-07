@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-EFA573",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "cacti",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.8.8e+ds1-1",
+          "Urgency": "not yet assigned",
+          "Version": "0.8.8h+ds1-10+deb9u1"
+        }
+      ]
+    }
+  ]
+}

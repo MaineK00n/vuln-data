@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0698189-BE9FC4",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "swath",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.4.3-3",
+          "Urgency": "low",
+          "Version": "0.6.1-1"
+        }
+      ]
+    }
+  ]
+}

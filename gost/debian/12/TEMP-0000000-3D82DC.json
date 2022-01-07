@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-3D82DC",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "axel",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "2.2",
+          "Urgency": "unimportant",
+          "Version": "2.17.10-2"
+        }
+      ]
+    }
+  ]
+}

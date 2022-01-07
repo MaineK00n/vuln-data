@@ -1,0 +1,31 @@
+{
+  "CveID": "TEMP-0000000-D91305",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "tcpdf",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "6.0.010+dfsg-1",
+          "Urgency": "not yet assigned",
+          "Version": "6.4.2+dfsg1-1"
+        }
+      ]
+    },
+    {
+      "PackageName": "phpmyadmin",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "4:5.1.1+dfsg1-4"
+        }
+      ]
+    }
+  ]
+}

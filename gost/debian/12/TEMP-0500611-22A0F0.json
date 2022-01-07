@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0500611-22A0F0",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "jumpnbump",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "1.50+dfsg1-1",
+          "Urgency": "low",
+          "Version": "1.61-4"
+        }
+      ]
+    }
+  ]
+}

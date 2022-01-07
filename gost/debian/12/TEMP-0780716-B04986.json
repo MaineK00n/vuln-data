@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0780716-B04986",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "flightgear-data",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "3.0.0-3",
+          "Urgency": "not yet assigned",
+          "Version": "1:2020.3.6+dfsg-1"
+        }
+      ]
+    }
+  ]
+}

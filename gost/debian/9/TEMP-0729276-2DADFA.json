@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0729276-2DADFA",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "staden-io-lib",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.13.3-2",
+          "Urgency": "low",
+          "Version": "1.14.8-2"
+        }
+      ]
+    }
+  ]
+}

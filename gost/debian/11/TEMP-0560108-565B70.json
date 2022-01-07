@@ -1,0 +1,31 @@
+{
+  "CveID": "TEMP-0560108-565B70",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "dillo",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "3.0.5-7"
+        }
+      ]
+    },
+    {
+      "PackageName": "epiphany-browser",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "3.38.2-1"
+        }
+      ]
+    }
+  ]
+}

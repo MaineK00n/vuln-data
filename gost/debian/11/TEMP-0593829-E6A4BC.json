@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0593829-E6A4BC",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "sabnzbdplus",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0.5.4-1",
+          "Urgency": "low",
+          "Version": "3.1.1+dfsg-2+deb11u1"
+        }
+      ]
+    }
+  ]
+}

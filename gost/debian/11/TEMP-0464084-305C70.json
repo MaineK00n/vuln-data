@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0464084-305C70",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "greylistd",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0.8.7+nmu2",
+          "Urgency": "low",
+          "Version": "0.9.0.2"
+        }
+      ]
+    }
+  ]
+}

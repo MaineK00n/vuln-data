@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-AB5257",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "dojo",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.4.2+dfsg-1",
+          "Urgency": "low",
+          "Version": "1.15.4+dfsg1-1"
+        }
+      ]
+    }
+  ]
+}

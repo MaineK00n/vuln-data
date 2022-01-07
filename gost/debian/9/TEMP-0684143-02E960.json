@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0684143-02E960",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "redeclipse",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.2-3",
+          "Urgency": "not yet assigned",
+          "Version": "1.5.8-1"
+        }
+      ]
+    }
+  ]
+}

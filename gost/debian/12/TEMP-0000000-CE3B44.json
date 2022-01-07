@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-CE3B44",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "xen",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "4.8.0~rc3-1",
+          "Urgency": "not yet assigned",
+          "Version": "4.14.3+32-g9de3671772-1"
+        }
+      ]
+    }
+  ]
+}

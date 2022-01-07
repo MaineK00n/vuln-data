@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0923926-B85BA9",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "proftpd-dfsg",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.3.5d-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.3.7a+dfsg-12+deb11u2"
+        }
+      ]
+    }
+  ]
+}

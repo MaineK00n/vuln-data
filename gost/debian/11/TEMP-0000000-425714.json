@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-425714",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "argyll",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "2.0.1+repack-1.1"
+        }
+      ]
+    }
+  ]
+}

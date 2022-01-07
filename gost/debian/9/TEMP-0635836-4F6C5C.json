@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0635836-4F6C5C",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "minissdpd",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.0.20110729-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.2.20130907-4.1+deb9u1"
+        }
+      ]
+    }
+  ]
+}

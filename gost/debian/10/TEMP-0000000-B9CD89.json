@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-B9CD89",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "haproxy",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.5.12-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.8.19-1+deb10u3"
+        }
+      ]
+    }
+  ]
+}

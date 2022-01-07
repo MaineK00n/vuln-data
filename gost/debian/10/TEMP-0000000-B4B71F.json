@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-B4B71F",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "puppet",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.7.3-3",
+          "Urgency": "unimportant",
+          "Version": "5.5.10-4"
+        }
+      ]
+    }
+  ]
+}

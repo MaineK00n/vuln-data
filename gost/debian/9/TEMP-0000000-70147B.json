@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-70147B",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libvncserver",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.9.8-1",
+          "Urgency": "not yet assigned",
+          "Version": "0.9.11+dfsg-1.3~deb9u4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "CveID": "TEMP-0816034-9C45DC",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "wine",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "1.8.7-2"
+        }
+      ]
+    },
+    {
+      "PackageName": "wine-development",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "2.0-3"
+        }
+      ]
+    }
+  ]
+}

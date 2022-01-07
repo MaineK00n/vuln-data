@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-271E1A",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "vpnc",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0.3.2+SVN20050326-2",
+          "Urgency": "not yet assigned",
+          "Version": "0.5.3+git20210125-1"
+        }
+      ]
+    }
+  ]
+}

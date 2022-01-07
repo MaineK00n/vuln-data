@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0454297-EACDD7",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "exempi",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.99.7-1",
+          "Urgency": "not yet assigned",
+          "Version": "2.4.1-1"
+        }
+      ]
+    }
+  ]
+}

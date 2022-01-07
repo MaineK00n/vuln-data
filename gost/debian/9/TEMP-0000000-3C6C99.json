@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-3C6C99",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "darcsweb",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.15-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.1-3.2"
+        }
+      ]
+    }
+  ]
+}

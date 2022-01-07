@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-3E4AC3",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "plinth",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "not yet assigned",
+          "Version": "0.13.1+ds-1"
+        }
+      ]
+    }
+  ]
+}

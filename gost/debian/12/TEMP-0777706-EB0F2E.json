@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0777706-EB0F2E",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "nut",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "2.7.2-2",
+          "Urgency": "low",
+          "Version": "2.7.4-14"
+        }
+      ]
+    }
+  ]
+}

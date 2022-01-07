@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0856648-2BC2C9",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "suricata",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "3.2.1-1",
+          "Urgency": "not yet assigned",
+          "Version": "1:4.1.2-2+deb10u1"
+        }
+      ]
+    }
+  ]
+}

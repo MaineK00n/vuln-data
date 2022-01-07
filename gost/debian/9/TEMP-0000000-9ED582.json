@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-9ED582",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ekg",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1:1.5+20050411-3",
+          "Urgency": "not yet assigned",
+          "Version": "1:1.9~pre+r2855-5"
+        }
+      ]
+    }
+  ]
+}

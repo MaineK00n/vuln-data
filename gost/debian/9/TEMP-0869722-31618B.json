@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0869722-31618B",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "imagemagick",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "8:6.9.7.4+dfsg-11+deb9u8"
+        }
+      ]
+    }
+  ]
+}

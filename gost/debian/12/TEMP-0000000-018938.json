@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-018938",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "cacti",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0.8.8e+ds1-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.2.19+ds1-2"
+        }
+      ]
+    }
+  ]
+}

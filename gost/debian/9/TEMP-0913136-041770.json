@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0913136-041770",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "xml-security-c",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.7.3-4+deb9u2",
+          "Urgency": "not yet assigned",
+          "Version": "1.7.3-4+deb9u3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-FD1F92",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "node-send",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "0.9.4-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0379922-FA0DE2",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ffmpeg",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0.cvs20060823-8",
+          "Urgency": "low",
+          "Version": "7:4.4.1-2"
+        }
+      ]
+    }
+  ]
+}

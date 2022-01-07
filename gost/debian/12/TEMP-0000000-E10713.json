@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-E10713",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "gtetrinet",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0.4.4-1",
+          "Urgency": "not yet assigned",
+          "Version": "0.7.11+git20200916.46e7ade-2"
+        }
+      ]
+    }
+  ]
+}

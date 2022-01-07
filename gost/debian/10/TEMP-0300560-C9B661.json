@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0300560-C9B661",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "mldonkey",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.5.28.1-1",
+          "Urgency": "low",
+          "Version": "3.1.6-1"
+        }
+      ]
+    }
+  ]
+}

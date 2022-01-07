@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-B446CF",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "iodine",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.5.1",
+          "Urgency": "low",
+          "Version": "0.7.0-7"
+        }
+      ]
+    }
+  ]
+}

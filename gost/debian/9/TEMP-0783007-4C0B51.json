@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0783007-4C0B51",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "suricata",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.0.7-1",
+          "Urgency": "not yet assigned",
+          "Version": "3.2.1-1+deb9u1"
+        }
+      ]
+    }
+  ]
+}

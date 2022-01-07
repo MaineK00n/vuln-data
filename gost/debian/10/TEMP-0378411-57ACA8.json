@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0378411-57ACA8",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libxml-parser-perl",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.34-4.2",
+          "Urgency": "medium",
+          "Version": "2.44-4"
+        }
+      ]
+    }
+  ]
+}

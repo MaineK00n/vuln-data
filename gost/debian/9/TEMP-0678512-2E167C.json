@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0678512-2E167C",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ruby-eventmachine",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.0.7-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.0.7-4"
+        }
+      ]
+    }
+  ]
+}

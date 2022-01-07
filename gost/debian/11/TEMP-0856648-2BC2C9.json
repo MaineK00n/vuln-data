@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0856648-2BC2C9",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "suricata",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "3.2.1-1",
+          "Urgency": "not yet assigned",
+          "Version": "1:6.0.1-3"
+        }
+      ]
+    }
+  ]
+}

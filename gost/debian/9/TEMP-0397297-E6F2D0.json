@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0397297-E6F2D0",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "obexpushd",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.4+svn10-1",
+          "Urgency": "medium",
+          "Version": "0.11.2-1.1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0649113-869F0D",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "spip",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "2.1.12-1",
+          "Urgency": "not yet assigned",
+          "Version": "3.2.12-1"
+        }
+      ]
+    }
+  ]
+}

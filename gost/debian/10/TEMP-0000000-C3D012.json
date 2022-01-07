@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-C3D012",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "kde4libs",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "4:4.3.4-1",
+          "Urgency": "low",
+          "Version": "4:4.14.38-3"
+        }
+      ]
+    }
+  ]
+}

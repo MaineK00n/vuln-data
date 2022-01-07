@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0740268-4CE61C",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "mp3gain",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.6.2-1",
+          "Urgency": "low",
+          "Version": "1.6.2-2"
+        }
+      ]
+    }
+  ]
+}

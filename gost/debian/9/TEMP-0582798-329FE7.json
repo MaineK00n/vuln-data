@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0582798-329FE7",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "wicd",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.7.0+ds1-3",
+          "Urgency": "low",
+          "Version": "1.7.4+tb2-5~deb9u1"
+        }
+      ]
+    }
+  ]
+}

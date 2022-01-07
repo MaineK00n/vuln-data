@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0320150-40E143",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ffmpeg",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.cvs20050811-1",
+          "Urgency": "medium",
+          "Version": "7:3.2.14-1~deb9u1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0496462-B3176F",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "nvi",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.81.6-4",
+          "Urgency": "low",
+          "Version": "1.81.6-16"
+        }
+      ]
+    }
+  ]
+}

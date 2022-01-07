@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0484639-8D3138",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "evolution",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "2.22.2-1.1",
+          "Urgency": "low",
+          "Version": "3.38.3-1"
+        }
+      ]
+    }
+  ]
+}

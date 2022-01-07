@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0321447-C22A86",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "x11-apps",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "7.7~1",
+          "Urgency": "low",
+          "Version": "7.7+7"
+        }
+      ]
+    }
+  ]
+}

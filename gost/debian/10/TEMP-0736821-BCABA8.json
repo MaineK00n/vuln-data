@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0736821-BCABA8",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "fookebox",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.7.2-1",
+          "Urgency": "low",
+          "Version": "0.7.2-3"
+        }
+      ]
+    }
+  ]
+}

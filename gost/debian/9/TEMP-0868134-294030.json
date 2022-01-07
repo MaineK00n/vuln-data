@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0868134-294030",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "t1utils",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "1.39-2"
+        }
+      ]
+    }
+  ]
+}

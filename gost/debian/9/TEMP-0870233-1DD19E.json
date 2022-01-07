@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0870233-1DD19E",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "smplayer",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "low",
+          "Version": "16.11.0~ds0-1+deb9u1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "CveID": "TEMP-0532514-9137E0",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "lynx",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "2.8.7rel.1-1",
+          "Urgency": "unimportant",
+          "Version": "2.9.0dev.10-1"
+        }
+      ]
+    },
+    {
+      "PackageName": "w3m",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "0.5.3+git20210102-6"
+        }
+      ]
+    },
+    {
+      "PackageName": "dillo",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "3.0.5-7"
+        }
+      ]
+    }
+  ]
+}

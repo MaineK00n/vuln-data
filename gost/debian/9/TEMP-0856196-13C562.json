@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0856196-13C562",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "pax-utils",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "1.1.7-1"
+        }
+      ]
+    }
+  ]
+}

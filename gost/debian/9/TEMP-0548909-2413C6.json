@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0548909-2413C6",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "xen-tools",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "4.2~beta1-1",
+          "Urgency": "low",
+          "Version": "4.7-1"
+        }
+      ]
+    }
+  ]
+}

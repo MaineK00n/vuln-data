@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0774171-B2A845",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "unrar-nonfree",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1:5.2.7-0.1",
+          "Urgency": "not yet assigned",
+          "Version": "1:5.3.2-1+deb9u1"
+        }
+      ]
+    }
+  ]
+}

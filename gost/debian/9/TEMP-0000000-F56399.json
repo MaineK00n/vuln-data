@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-F56399",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "chromium-browser",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "26.0.1410.43-1",
+          "Urgency": "low",
+          "Version": "70.0.3538.110-1~deb9u1"
+        }
+      ]
+    }
+  ]
+}

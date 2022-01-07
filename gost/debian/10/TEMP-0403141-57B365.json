@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0403141-57B365",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "znc",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.045-3",
+          "Urgency": "medium",
+          "Version": "1.7.2-3"
+        }
+      ]
+    }
+  ]
+}

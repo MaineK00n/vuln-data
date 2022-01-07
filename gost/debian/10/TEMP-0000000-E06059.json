@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-E06059",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "backup-manager",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.7.9-1",
+          "Urgency": "low",
+          "Version": "0.7.14-1+deb10u1"
+        }
+      ]
+    }
+  ]
+}

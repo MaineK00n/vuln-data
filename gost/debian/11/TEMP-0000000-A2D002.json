@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-A2D002",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "prelude-manager",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "5.2.0-2"
+        }
+      ]
+    }
+  ]
+}

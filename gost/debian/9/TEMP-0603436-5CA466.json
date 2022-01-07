@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0603436-5CA466",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "pam-pgsql",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.7.1-5",
+          "Urgency": "not yet assigned",
+          "Version": "0.7.3.2-1"
+        }
+      ]
+    }
+  ]
+}

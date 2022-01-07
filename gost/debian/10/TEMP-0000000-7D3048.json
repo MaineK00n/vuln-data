@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-7D3048",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "syslog-ng",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.6.5-2.1",
+          "Urgency": "not yet assigned",
+          "Version": "3.19.1-5"
+        }
+      ]
+    }
+  ]
+}

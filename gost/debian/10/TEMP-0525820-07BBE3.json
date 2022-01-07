@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0525820-07BBE3",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "file",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "5.03-1",
+          "Urgency": "not yet assigned",
+          "Version": "1:5.35-4+deb10u2"
+        }
+      ]
+    }
+  ]
+}

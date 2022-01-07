@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0869722-31618B",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "imagemagick",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "8:6.9.7.4+dfsg-13",
+          "Urgency": "unimportant",
+          "Version": "8:6.9.10.23+dfsg-2.1+deb10u1"
+        }
+      ]
+    }
+  ]
+}

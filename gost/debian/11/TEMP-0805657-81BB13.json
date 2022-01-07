@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0805657-81BB13",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libmaxminddb",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.1.5-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.5.2-1"
+        }
+      ]
+    }
+  ]
+}

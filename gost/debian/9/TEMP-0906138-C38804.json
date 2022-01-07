@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0906138-C38804",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libykneomgr",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "low",
+          "Version": "0.1.8-2"
+        }
+      ]
+    }
+  ]
+}

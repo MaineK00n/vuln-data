@@ -1,0 +1,43 @@
+{
+  "CveID": "TEMP-0601525-BEBB65",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "racket",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "5.0.2-1",
+          "Urgency": "unimportant",
+          "Version": "7.9+dfsg1-2"
+        }
+      ]
+    },
+    {
+      "PackageName": "libgd2",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "2.0.35.dfsg-3",
+          "Urgency": "not yet assigned",
+          "Version": "2.3.0-2"
+        }
+      ]
+    },
+    {
+      "PackageName": "libwmf",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "0.2.8.4-17"
+        }
+      ]
+    }
+  ]
+}

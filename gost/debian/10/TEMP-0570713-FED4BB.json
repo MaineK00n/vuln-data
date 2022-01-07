@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0570713-FED4BB",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ffmpeg",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "4:0.5.1-1",
+          "Urgency": "medium",
+          "Version": "7:4.1.6-1~deb10u1"
+        }
+      ]
+    }
+  ]
+}

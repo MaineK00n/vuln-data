@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0632260-7A1354",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "stardict",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "3.0.1-5",
+          "Urgency": "low",
+          "Version": "3.0.1-9.3"
+        }
+      ]
+    }
+  ]
+}

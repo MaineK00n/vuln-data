@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0745580-D90EF4",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "virtualenvwrapper",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "4.3-1",
+          "Urgency": "low",
+          "Version": "4.3.1-2"
+        }
+      ]
+    }
+  ]
+}

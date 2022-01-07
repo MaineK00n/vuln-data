@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-212AE3",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ipsec-tools",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1:0.5.2-1",
+          "Urgency": "not yet assigned",
+          "Version": "1:0.8.2+20140711-8+deb9u1"
+        }
+      ]
+    }
+  ]
+}

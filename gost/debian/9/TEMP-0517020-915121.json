@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0517020-915121",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "thunar",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "1.6.11-1"
+        }
+      ]
+    }
+  ]
+}

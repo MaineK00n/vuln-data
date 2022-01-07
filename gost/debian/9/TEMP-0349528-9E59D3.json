@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0349528-9E59D3",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "elog",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.5.7+r1558-3",
+          "Urgency": "high",
+          "Version": "3.1.2-1-1"
+        }
+      ]
+    }
+  ]
+}

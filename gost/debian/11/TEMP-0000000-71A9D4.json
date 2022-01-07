@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-71A9D4",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libconvert-uulib-perl",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.0.5.1-1",
+          "Urgency": "not yet assigned",
+          "Version": "1:1.5~dfsg-1"
+        }
+      ]
+    }
+  ]
+}

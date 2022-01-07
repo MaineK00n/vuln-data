@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0149799-ABFD7C",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "sanitizer",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.76-1",
+          "Urgency": "medium",
+          "Version": "1.76-5.1"
+        }
+      ]
+    }
+  ]
+}

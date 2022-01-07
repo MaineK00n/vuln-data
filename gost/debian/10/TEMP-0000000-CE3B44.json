@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-CE3B44",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "xen",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "4.8.0~rc3-1",
+          "Urgency": "not yet assigned",
+          "Version": "4.11.4+107-gef32c7afa2-1"
+        }
+      ]
+    }
+  ]
+}

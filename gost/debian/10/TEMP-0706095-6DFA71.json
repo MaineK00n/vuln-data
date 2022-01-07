@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0706095-6DFA71",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "autopostgresqlbackup",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.0-2",
+          "Urgency": "not yet assigned",
+          "Version": "1.1-1"
+        }
+      ]
+    }
+  ]
+}

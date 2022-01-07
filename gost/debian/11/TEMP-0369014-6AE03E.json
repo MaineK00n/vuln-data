@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0369014-6AE03E",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "wordpress",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "2.0.3-1",
+          "Urgency": "high",
+          "Version": "5.7.3+dfsg1-0+deb11u1"
+        }
+      ]
+    }
+  ]
+}

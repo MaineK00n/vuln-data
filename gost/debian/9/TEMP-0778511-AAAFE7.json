@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0778511-AAAFE7",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "icu",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "52.1-10",
+          "Urgency": "low",
+          "Version": "57.1-6+deb9u4"
+        }
+      ]
+    }
+  ]
+}

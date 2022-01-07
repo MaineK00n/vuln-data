@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0672435-7C494C",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "x11vnc",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "low",
+          "Version": "0.9.13-2+deb9u1"
+        }
+      ]
+    }
+  ]
+}

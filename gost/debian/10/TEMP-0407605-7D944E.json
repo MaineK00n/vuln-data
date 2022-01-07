@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0407605-7D944E",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "netpbm-free",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2:10.0-11",
+          "Urgency": "not yet assigned",
+          "Version": "2:10.0-15.3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-F41FA7",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libemail-address-perl",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.908-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.912-1"
+        }
+      ]
+    }
+  ]
+}

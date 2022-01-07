@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0904191-9063D5",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ant",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "1.9.9-1+deb9u1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0290435-0B57B5",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "tar",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "1.34+dfsg-1"
+        }
+      ]
+    }
+  ]
+}

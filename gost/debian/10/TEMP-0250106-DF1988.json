@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0250106-DF1988",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libmng",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.0.8-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.0.10+dfsg-3.1"
+        }
+      ]
+    }
+  ]
+}

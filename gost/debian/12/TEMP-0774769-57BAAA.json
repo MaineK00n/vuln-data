@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0774769-57BAAA",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "lftp",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "4.6.1-2",
+          "Urgency": "low",
+          "Version": "4.9.2-1"
+        }
+      ]
+    }
+  ]
+}

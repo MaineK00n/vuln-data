@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-F4C8D1",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ejabberd",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.1.1-8",
+          "Urgency": "not yet assigned",
+          "Version": "18.12.1-2"
+        }
+      ]
+    }
+  ]
+}

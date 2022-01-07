@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0325080-CF0752",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "gajim",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.8.2-1",
+          "Urgency": "low",
+          "Version": "0.16.6-1.1"
+        }
+      ]
+    }
+  ]
+}

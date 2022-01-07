@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-1BAE4D",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "gnutls28",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "3.4.14-1",
+          "Urgency": "unimportant",
+          "Version": "3.6.7-4+deb10u7"
+        }
+      ]
+    }
+  ]
+}

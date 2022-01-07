@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0539699-BC7A2B",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "xscreensaver",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "5.05-3+nmu1",
+          "Urgency": "low",
+          "Version": "5.36-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-80376F",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "freexl",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.0.2-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.0.5-3"
+        }
+      ]
+    }
+  ]
+}

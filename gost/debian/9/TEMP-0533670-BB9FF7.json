@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0533670-BB9FF7",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "pcsc-lite",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.5.4-1",
+          "Urgency": "low",
+          "Version": "1.8.20-1"
+        }
+      ]
+    }
+  ]
+}

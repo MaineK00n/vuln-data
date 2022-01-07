@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0464084-305C70",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "greylistd",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.8.7+nmu2",
+          "Urgency": "low",
+          "Version": "0.8.8.7"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0825151-E80EFA",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "postfixadmin",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.93-2",
+          "Urgency": "not yet assigned",
+          "Version": "3.0.2-2"
+        }
+      ]
+    }
+  ]
+}

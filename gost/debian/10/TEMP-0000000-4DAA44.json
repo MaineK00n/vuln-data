@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-4DAA44",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "gst-plugins-ugly1.0",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.14.4-1+deb10u1",
+          "Urgency": "not yet assigned",
+          "Version": "1.14.4-1+deb10u1"
+        }
+      ]
+    }
+  ]
+}

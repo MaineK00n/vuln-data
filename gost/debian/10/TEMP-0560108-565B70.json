@@ -1,0 +1,55 @@
+{
+  "CveID": "TEMP-0560108-565B70",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "qt4-x11",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "4:4.8.7+dfsg-18+deb10u1"
+        }
+      ]
+    },
+    {
+      "PackageName": "kde4libs",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "4:4.14.38-3"
+        }
+      ]
+    },
+    {
+      "PackageName": "dillo",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "3.0.5-5"
+        }
+      ]
+    },
+    {
+      "PackageName": "epiphany-browser",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "3.32.1.2-3~deb10u1"
+        }
+      ]
+    }
+  ]
+}

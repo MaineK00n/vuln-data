@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0628843-DBAD28",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "shadow",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "1:4.5-1.1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0905332-CB57BF",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "xml-security-c",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.7.3-4+deb9u1",
+          "Urgency": "not yet assigned",
+          "Version": "2.0.2-3"
+        }
+      ]
+    }
+  ]
+}

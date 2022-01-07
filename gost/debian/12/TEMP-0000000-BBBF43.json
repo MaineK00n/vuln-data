@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-BBBF43",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "tor",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0.1.0.14-1",
+          "Urgency": "medium",
+          "Version": "0.4.6.9-1"
+        }
+      ]
+    }
+  ]
+}

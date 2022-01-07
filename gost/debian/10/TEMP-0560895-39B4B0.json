@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0560895-39B4B0",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "gnome-screensaver",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.28.0-2",
+          "Urgency": "low",
+          "Version": "3.6.1-10"
+        }
+      ]
+    }
+  ]
+}

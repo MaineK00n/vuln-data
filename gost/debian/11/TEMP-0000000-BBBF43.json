@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-BBBF43",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "tor",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0.1.0.14-1",
+          "Urgency": "medium",
+          "Version": "0.4.5.10-1~deb11u1"
+        }
+      ]
+    }
+  ]
+}

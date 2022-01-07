@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0464778-7EAAA3",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "tdiary",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.2.0-1",
+          "Urgency": "not yet assigned",
+          "Version": "5.0.2-1"
+        }
+      ]
+    }
+  ]
+}

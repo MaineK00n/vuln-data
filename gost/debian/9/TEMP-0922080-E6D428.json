@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0922080-E6D428",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "borgbackup",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "not yet assigned",
+          "Version": "1.0.9-1"
+        }
+      ]
+    }
+  ]
+}

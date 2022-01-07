@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0869722-31618B",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "imagemagick",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "8:6.9.7.4+dfsg-13",
+          "Urgency": "unimportant",
+          "Version": "8:6.9.11.60+dfsg-1.3"
+        }
+      ]
+    }
+  ]
+}

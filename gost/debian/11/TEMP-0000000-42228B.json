@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-42228B",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "spip",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "2.1.11-0.1",
+          "Urgency": "not yet assigned",
+          "Version": "3.2.11-3"
+        }
+      ]
+    }
+  ]
+}

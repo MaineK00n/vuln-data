@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-95CBBF",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "sharutils",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "1:4.15.2-5"
+        }
+      ]
+    }
+  ]
+}

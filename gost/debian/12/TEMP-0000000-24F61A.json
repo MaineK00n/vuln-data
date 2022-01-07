@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-24F61A",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ipython",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0.12-1",
+          "Urgency": "not yet assigned",
+          "Version": "7.27.0-1"
+        }
+      ]
+    }
+  ]
+}

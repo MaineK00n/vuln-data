@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0853951-A77B7B",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "iio-sensor-proxy",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.0-4",
+          "Urgency": "not yet assigned",
+          "Version": "2.4-2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-52A4D1",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "fex",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "20160919-2~deb9u1",
+          "Urgency": "not yet assigned",
+          "Version": "20160919-2~deb9u1"
+        }
+      ]
+    }
+  ]
+}

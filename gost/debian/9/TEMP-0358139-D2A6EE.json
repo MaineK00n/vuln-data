@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0358139-D2A6EE",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "gauche",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.8.7-1",
+          "Urgency": "low",
+          "Version": "0.9.5-1"
+        }
+      ]
+    }
+  ]
+}

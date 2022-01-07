@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0334193-23D83A",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "xscreensaver",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "4.23-2",
+          "Urgency": "low",
+          "Version": "5.45+dfsg1-2"
+        }
+      ]
+    }
+  ]
+}

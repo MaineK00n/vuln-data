@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0764645-2E1644",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "iptables-persistent",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.0.4",
+          "Urgency": "low",
+          "Version": "1.0.11+deb10u1"
+        }
+      ]
+    }
+  ]
+}

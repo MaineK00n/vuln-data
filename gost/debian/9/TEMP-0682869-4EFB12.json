@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0682869-4EFB12",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "munin",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.0.5-1",
+          "Urgency": "not yet assigned",
+          "Version": "2.0.33-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0324913-425151",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "cplay",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.49-8",
+          "Urgency": "low",
+          "Version": "1.50-1"
+        }
+      ]
+    }
+  ]
+}

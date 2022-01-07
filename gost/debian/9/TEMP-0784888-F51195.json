@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0784888-F51195",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "didjvu",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.4-1",
+          "Urgency": "not yet assigned",
+          "Version": "0.8.1-1"
+        }
+      ]
+    }
+  ]
+}

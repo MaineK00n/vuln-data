@@ -1,0 +1,31 @@
+{
+  "CveID": "TEMP-0000000-F99584",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "squid",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "4.13-10"
+        }
+      ]
+    },
+    {
+      "PackageName": "lighttpd",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "1.4.59-1"
+        }
+      ]
+    }
+  ]
+}

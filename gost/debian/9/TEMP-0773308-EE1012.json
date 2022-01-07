@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0773308-EE1012",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ht",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.1.0-1",
+          "Urgency": "low",
+          "Version": "2.1.0+repack1-2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-E43D47",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "cacti",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0.8.8e+ds1-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.2.16+ds1-2"
+        }
+      ]
+    }
+  ]
+}

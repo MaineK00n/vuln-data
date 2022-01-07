@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0514151-B17364",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "samba",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "2:3.2.6",
+          "Urgency": "not yet assigned",
+          "Version": "2:4.13.14+dfsg-1"
+        }
+      ]
+    }
+  ]
+}

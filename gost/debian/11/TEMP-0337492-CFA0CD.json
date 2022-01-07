@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0337492-CFA0CD",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "note",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.3.1-3",
+          "Urgency": "unimportant",
+          "Version": "1.3.26-3"
+        }
+      ]
+    }
+  ]
+}

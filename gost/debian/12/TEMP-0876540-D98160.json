@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0876540-D98160",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "pcb-rnd",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "1.2.5-2",
+          "Urgency": "not yet assigned",
+          "Version": "3.0.2-1"
+        }
+      ]
+    }
+  ]
+}

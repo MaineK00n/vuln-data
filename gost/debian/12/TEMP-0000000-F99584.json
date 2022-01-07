@@ -1,0 +1,31 @@
+{
+  "CveID": "TEMP-0000000-F99584",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "squid",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "5.2-1"
+        }
+      ]
+    },
+    {
+      "PackageName": "lighttpd",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "1.4.63-1"
+        }
+      ]
+    }
+  ]
+}

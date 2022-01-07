@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-E9A545",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libetpan",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.54-3",
+          "Urgency": "low",
+          "Version": "1.6-3"
+        }
+      ]
+    }
+  ]
+}

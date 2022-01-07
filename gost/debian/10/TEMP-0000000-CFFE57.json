@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-CFFE57",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "cakephp",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "2.10.11-2"
+        }
+      ]
+    }
+  ]
+}

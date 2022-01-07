@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-1F321D",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "haproxy",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "1.5.12-1",
+          "Urgency": "not yet assigned",
+          "Version": "2.4.10-1"
+        }
+      ]
+    }
+  ]
+}

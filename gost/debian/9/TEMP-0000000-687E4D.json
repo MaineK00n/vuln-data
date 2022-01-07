@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-687E4D",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "chromium-browser",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "21.0.1180.57~r148591-1",
+          "Urgency": "not yet assigned",
+          "Version": "70.0.3538.110-1~deb9u1"
+        }
+      ]
+    }
+  ]
+}

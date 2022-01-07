@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-3EB501",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "obexftp",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.10.7-3",
+          "Urgency": "not yet assigned",
+          "Version": "0.24-5"
+        }
+      ]
+    }
+  ]
+}

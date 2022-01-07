@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-A2D002",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "prelude-manager",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "4.1.1-2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-E3DB33",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "freeciv",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.0.1-1",
+          "Urgency": "not yet assigned",
+          "Version": "2.5.6-2"
+        }
+      ]
+    }
+  ]
+}

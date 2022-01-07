@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0388608-F17697",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "logrotate",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "3.7.8-4",
+          "Urgency": "low",
+          "Version": "3.11.0-0.1"
+        }
+      ]
+    }
+  ]
+}

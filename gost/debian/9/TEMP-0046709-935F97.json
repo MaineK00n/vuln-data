@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0046709-935F97",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "gnumach",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1:20050801-3",
+          "Urgency": "not yet assigned",
+          "Version": "2:1.8+git20170102-1"
+        }
+      ]
+    }
+  ]
+}

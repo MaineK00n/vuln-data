@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0568925-CB8E83",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "esmtp",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "1.2-3",
+          "Urgency": "unimportant",
+          "Version": "1.2-18"
+        }
+      ]
+    }
+  ]
+}

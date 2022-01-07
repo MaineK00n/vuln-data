@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0930387-988530",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "rdesktop",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.8.6-2~deb9u1",
+          "Urgency": "not yet assigned",
+          "Version": "1.8.6-2~deb9u1"
+        }
+      ]
+    }
+  ]
+}

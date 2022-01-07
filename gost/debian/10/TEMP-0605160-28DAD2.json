@@ -1,0 +1,103 @@
+{
+  "CveID": "TEMP-0605160-28DAD2",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "distcc",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "3.1-3.2",
+          "Urgency": "low",
+          "Version": "3.3.2-10+deb10u1"
+        }
+      ]
+    },
+    {
+      "PackageName": "mmass",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "3.8.0-2",
+          "Urgency": "low",
+          "Version": "5.5.0-5"
+        }
+      ]
+    },
+    {
+      "PackageName": "guake",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.4.2-3",
+          "Urgency": "low",
+          "Version": "3.4.0-1"
+        }
+      ]
+    },
+    {
+      "PackageName": "opendnssec",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.1.3-2",
+          "Urgency": "low",
+          "Version": "1:2.1.3-2"
+        }
+      ]
+    },
+    {
+      "PackageName": "pymca",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "4.4.1p1-1",
+          "Urgency": "low",
+          "Version": "5.4.3+dfsg-1"
+        }
+      ]
+    },
+    {
+      "PackageName": "snappea",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "3.0d3-20",
+          "Urgency": "low",
+          "Version": "3.0d3-24"
+        }
+      ]
+    },
+    {
+      "PackageName": "calendarserver",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.4.dfsg-2.1",
+          "Urgency": "low",
+          "Version": "9.2+dfsg-1"
+        }
+      ]
+    },
+    {
+      "PackageName": "gnumed-client",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.8.5-1",
+          "Urgency": "low",
+          "Version": "1.7.5+dfsg-3"
+        }
+      ]
+    }
+  ]
+}

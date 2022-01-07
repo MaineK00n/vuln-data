@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0649113-5F7BC7",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "spip",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.1.12-1",
+          "Urgency": "not yet assigned",
+          "Version": "3.2.4-1+deb10u4"
+        }
+      ]
+    }
+  ]
+}

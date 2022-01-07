@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0361653-A94AFD",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "librsvg",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.14.3-2",
+          "Urgency": "medium",
+          "Version": "2.44.10-2.1"
+        }
+      ]
+    }
+  ]
+}

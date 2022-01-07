@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0593829-E6A4BC",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "sabnzbdplus",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0.5.4-1",
+          "Urgency": "low",
+          "Version": "3.4.2+dfsg-2"
+        }
+      ]
+    }
+  ]
+}

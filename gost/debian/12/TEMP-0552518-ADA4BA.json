@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0552518-ADA4BA",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "glibc",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "2.10.1-7",
+          "Urgency": "unimportant",
+          "Version": "2.33-1"
+        }
+      ]
+    }
+  ]
+}

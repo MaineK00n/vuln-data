@@ -1,0 +1,31 @@
+{
+  "CveID": "TEMP-0000000-583651",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "nss",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "2:3.23-1",
+          "Urgency": "low",
+          "Version": "2:3.73.1-1"
+        }
+      ]
+    },
+    {
+      "PackageName": "nspr",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "2:4.12-1",
+          "Urgency": "low",
+          "Version": "2:4.32-3"
+        }
+      ]
+    }
+  ]
+}

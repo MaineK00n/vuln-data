@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-F26C42",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "php7.0",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "7.0.3-1",
+          "Urgency": "not yet assigned",
+          "Version": "7.0.33-0+deb9u8"
+        }
+      ]
+    }
+  ]
+}

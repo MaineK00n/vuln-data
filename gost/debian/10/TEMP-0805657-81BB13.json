@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0805657-81BB13",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libmaxminddb",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.1.5-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.3.2-1+deb10u1"
+        }
+      ]
+    }
+  ]
+}

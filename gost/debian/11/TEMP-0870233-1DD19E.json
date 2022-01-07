@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0870233-1DD19E",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "smplayer",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "17.7.0~ds0-1",
+          "Urgency": "low",
+          "Version": "20.6.0~ds0-1"
+        }
+      ]
+    }
+  ]
+}

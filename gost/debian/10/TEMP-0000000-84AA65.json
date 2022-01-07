@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-84AA65",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "clamav",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.86.2-1",
+          "Urgency": "low",
+          "Version": "0.103.3+dfsg-0+deb10u1"
+        }
+      ]
+    }
+  ]
+}

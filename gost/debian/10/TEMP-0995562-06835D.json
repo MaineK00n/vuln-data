@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0995562-06835D",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "rust-nix",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "not yet assigned",
+          "Version": "0.13.0-1"
+        }
+      ]
+    }
+  ]
+}

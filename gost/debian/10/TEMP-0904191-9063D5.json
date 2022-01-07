@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0904191-9063D5",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ant",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.10.5-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.10.5-2"
+        }
+      ]
+    }
+  ]
+}

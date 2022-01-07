@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0777522-650525",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libhtp",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1:0.5.25-1",
+          "Urgency": "not yet assigned",
+          "Version": "1:0.5.30-1"
+        }
+      ]
+    }
+  ]
+}

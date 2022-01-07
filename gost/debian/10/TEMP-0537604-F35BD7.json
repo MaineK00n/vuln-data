@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0537604-F35BD7",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "slim",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "1.3.6-5.1"
+        }
+      ]
+    }
+  ]
+}

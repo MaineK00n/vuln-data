@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0764814-3B6657",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "freecad",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.14.3702+dfsg-3",
+          "Urgency": "not yet assigned",
+          "Version": "0.16+dfsg2-3"
+        }
+      ]
+    }
+  ]
+}

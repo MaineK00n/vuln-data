@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0358142-0BC2FF",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "unixodbc",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "2.2.11-11",
+          "Urgency": "low",
+          "Version": "2.3.6-0.1"
+        }
+      ]
+    }
+  ]
+}

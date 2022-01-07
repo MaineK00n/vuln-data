@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-37DBC3",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "lighttpd",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "1.4.39-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.4.63-1"
+        }
+      ]
+    }
+  ]
+}

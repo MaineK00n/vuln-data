@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0833087-C5410D",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "mongodb",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1:2.6.12-1",
+          "Urgency": "not yet assigned",
+          "Version": "1:3.2.11-2+deb9u1"
+        }
+      ]
+    }
+  ]
+}

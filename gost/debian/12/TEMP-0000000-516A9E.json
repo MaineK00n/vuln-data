@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-516A9E",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ntfs-3g",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "1:1.516-1",
+          "Urgency": "not yet assigned",
+          "Version": "1:2021.8.22-3"
+        }
+      ]
+    }
+  ]
+}

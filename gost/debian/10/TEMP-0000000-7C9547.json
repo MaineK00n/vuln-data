@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-7C9547",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "docker.io",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.0.0~dfsg1-1",
+          "Urgency": "not yet assigned",
+          "Version": "18.09.1+dfsg1-7.1+deb10u3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0841856-B18BAF",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "bash",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "4.4-5"
+        }
+      ]
+    }
+  ]
+}

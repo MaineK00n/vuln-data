@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0517020-915121",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "thunar",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "1.8.4-1"
+        }
+      ]
+    }
+  ]
+}

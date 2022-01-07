@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-24F61A",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ipython",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.12-1",
+          "Urgency": "not yet assigned",
+          "Version": "5.8.0-1"
+        }
+      ]
+    }
+  ]
+}

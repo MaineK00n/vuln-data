@@ -1,0 +1,43 @@
+{
+  "CveID": "TEMP-0784712-E83200",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "mew",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1:6.6-3",
+          "Urgency": "not yet assigned",
+          "Version": "1:6.7-4"
+        }
+      ]
+    },
+    {
+      "PackageName": "mew-beta",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "7.0.50~6.6+0.20150508-1",
+          "Urgency": "not yet assigned",
+          "Version": "7.0.50~6.7+0.20161225-1"
+        }
+      ]
+    },
+    {
+      "PackageName": "semi",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.14.7~0.20120428-17",
+          "Urgency": "not yet assigned",
+          "Version": "1.14.7~0.20120428-21"
+        }
+      ]
+    }
+  ]
+}

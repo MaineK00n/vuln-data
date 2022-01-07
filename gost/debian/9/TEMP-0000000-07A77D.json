@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-07A77D",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "php-gettext",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "1.0.12-0.1"
+        }
+      ]
+    }
+  ]
+}

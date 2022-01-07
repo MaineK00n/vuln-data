@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-62D57E",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "apt-cacher",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.6.1",
+          "Urgency": "not yet assigned",
+          "Version": "1.7.20.1"
+        }
+      ]
+    }
+  ]
+}

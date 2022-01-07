@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-23C1BD",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ruby-sidekiq",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "3.4.2~dfsg-3",
+          "Urgency": "not yet assigned",
+          "Version": "4.2.3+dfsg-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0555308-79E91C",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "xorg-server",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2:1.7.2-1",
+          "Urgency": "low",
+          "Version": "2:1.20.4-1+deb10u3"
+        }
+      ]
+    }
+  ]
+}

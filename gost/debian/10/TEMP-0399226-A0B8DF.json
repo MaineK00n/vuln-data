@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0399226-A0B8DF",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "yacas",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1.0.57-3",
+          "Urgency": "low",
+          "Version": "1.3.6-2"
+        }
+      ]
+    }
+  ]
+}

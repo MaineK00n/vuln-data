@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-CE3B44",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "xen",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "4.8.0~rc3-1",
+          "Urgency": "not yet assigned",
+          "Version": "4.8.5.final+shim4.10.4-1+deb9u12"
+        }
+      ]
+    }
+  ]
+}

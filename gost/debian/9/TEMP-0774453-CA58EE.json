@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0774453-CA58EE",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "zoo",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "low",
+          "Version": "2.10-28"
+        }
+      ]
+    }
+  ]
+}

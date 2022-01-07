@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-137F0A",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "mustache.js",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "2.3.2-2"
+        }
+      ]
+    }
+  ]
+}

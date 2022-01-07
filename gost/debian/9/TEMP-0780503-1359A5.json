@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0780503-1359A5",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "icu",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "52.1-8",
+          "Urgency": "not yet assigned",
+          "Version": "57.1-6+deb9u4"
+        }
+      ]
+    }
+  ]
+}

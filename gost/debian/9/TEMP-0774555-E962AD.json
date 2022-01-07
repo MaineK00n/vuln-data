@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0774555-E962AD",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libquvi",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.4.1-3",
+          "Urgency": "low",
+          "Version": "0.9.3-1.2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-1E2093",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "linux",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "4.0.2-1",
+          "Urgency": "not yet assigned",
+          "Version": "4.9.228-1"
+        }
+      ]
+    }
+  ]
+}

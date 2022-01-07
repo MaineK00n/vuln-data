@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0567175-3A30A9",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ganglia",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "3.1.2-3",
+          "Urgency": "low",
+          "Version": "3.6.0-7"
+        }
+      ]
+    }
+  ]
+}

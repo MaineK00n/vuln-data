@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0778511-AAAFE7",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "icu",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "52.1-10",
+          "Urgency": "low",
+          "Version": "63.1-6+deb10u1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0173238-677015",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "lilo",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1:22.4-1",
+          "Urgency": "low",
+          "Version": "1:24.2-4"
+        }
+      ]
+    }
+  ]
+}

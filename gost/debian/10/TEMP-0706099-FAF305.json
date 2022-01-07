@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0706099-FAF305",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "automysqlbackup",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.6+debian.3-1",
+          "Urgency": "not yet assigned",
+          "Version": "2.6+debian.4-2"
+        }
+      ]
+    }
+  ]
+}

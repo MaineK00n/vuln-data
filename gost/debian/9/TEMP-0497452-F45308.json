@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0497452-F45308",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "nfdump",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.5.7-5",
+          "Urgency": "not yet assigned",
+          "Version": "1.6.15-3"
+        }
+      ]
+    }
+  ]
+}

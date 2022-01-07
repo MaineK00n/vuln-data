@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-52FF39",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "dokuwiki",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0.0.20101107a-1",
+          "Urgency": "low",
+          "Version": "0.0.20180422.a-2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-A5538F",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libpam-ssh",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.91.0-9",
+          "Urgency": "not yet assigned",
+          "Version": "2.3+ds-2"
+        }
+      ]
+    }
+  ]
+}

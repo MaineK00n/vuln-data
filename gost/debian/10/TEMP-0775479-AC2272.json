@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0775479-AC2272",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "phabricator",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "0~git20150129-1",
+          "Urgency": "not yet assigned",
+          "Version": "0~git20190207-1"
+        }
+      ]
+    }
+  ]
+}

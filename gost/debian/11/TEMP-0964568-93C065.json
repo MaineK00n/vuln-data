@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0964568-93C065",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "veyon",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "4.4.1+repack1-1",
+          "Urgency": "not yet assigned",
+          "Version": "4.5.3+repack1-1"
+        }
+      ]
+    }
+  ]
+}

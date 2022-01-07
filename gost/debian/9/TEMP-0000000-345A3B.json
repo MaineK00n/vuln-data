@@ -1,0 +1,31 @@
+{
+  "CveID": "TEMP-0000000-345A3B",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ruby-handlebars-assets",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "2:0.23.1-1"
+        }
+      ]
+    },
+    {
+      "PackageName": "libjs-handlebars",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "3:4.0.5-4"
+        }
+      ]
+    }
+  ]
+}

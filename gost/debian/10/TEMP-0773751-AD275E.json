@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0773751-AD275E",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "fex",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "20150120-1",
+          "Urgency": "low",
+          "Version": "20160919-2~deb10u1"
+        }
+      ]
+    }
+  ]
+}

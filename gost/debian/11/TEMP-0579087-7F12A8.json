@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0579087-7F12A8",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "prosody",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0.7.0-1",
+          "Urgency": "low",
+          "Version": "0.11.9-2"
+        }
+      ]
+    }
+  ]
+}

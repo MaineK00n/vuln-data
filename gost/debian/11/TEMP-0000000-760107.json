@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-760107",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "rtkit",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0.10-2",
+          "Urgency": "not yet assigned",
+          "Version": "0.13-4"
+        }
+      ]
+    }
+  ]
+}

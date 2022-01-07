@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0535159-76AB98",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ser2net",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.6-1",
+          "Urgency": "low",
+          "Version": "2.10.1-1"
+        }
+      ]
+    }
+  ]
+}

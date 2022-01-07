@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-964ED9",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "asterisk",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1:13.8.2~dfsg-1",
+          "Urgency": "not yet assigned",
+          "Version": "1:16.2.1~dfsg-1+deb10u2"
+        }
+      ]
+    }
+  ]
+}

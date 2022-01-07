@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0378412-67AD3D",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libxml-parser-perl",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.34-4.1",
+          "Urgency": "medium",
+          "Version": "2.44-2"
+        }
+      ]
+    }
+  ]
+}

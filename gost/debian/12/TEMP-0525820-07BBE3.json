@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0525820-07BBE3",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "file",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "5.03-1",
+          "Urgency": "not yet assigned",
+          "Version": "1:5.41-2"
+        }
+      ]
+    }
+  ]
+}

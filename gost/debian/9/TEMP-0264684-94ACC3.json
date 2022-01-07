@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0264684-94ACC3",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "pavuk",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.9.33-1",
+          "Urgency": "high",
+          "Version": "0.9.35-6.1"
+        }
+      ]
+    }
+  ]
+}

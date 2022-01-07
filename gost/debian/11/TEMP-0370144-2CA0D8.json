@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0370144-2CA0D8",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "mkvtoolnix",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.7.0-2",
+          "Urgency": "low",
+          "Version": "54.0.0+really52.0.0-3"
+        }
+      ]
+    }
+  ]
+}

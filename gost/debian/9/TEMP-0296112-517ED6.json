@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0296112-517ED6",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libnet-ssleay-perl",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.25-1.1",
+          "Urgency": "low",
+          "Version": "1.80-1"
+        }
+      ]
+    }
+  ]
+}

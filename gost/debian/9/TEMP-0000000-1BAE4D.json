@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-1BAE4D",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "gnutls28",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "3.4.14-1",
+          "Urgency": "unimportant",
+          "Version": "3.5.8-5+deb9u5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-54045E",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libidn",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.32-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.33-1+deb9u1"
+        }
+      ]
+    }
+  ]
+}

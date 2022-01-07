@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0608979-E8B8DF",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "toppler",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.1.4-2",
+          "Urgency": "unimportant",
+          "Version": "1.1.6-3"
+        }
+      ]
+    }
+  ]
+}

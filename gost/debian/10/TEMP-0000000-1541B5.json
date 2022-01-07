@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-1541B5",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libgtk2-perl",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2:1.2492-4",
+          "Urgency": "not yet assigned",
+          "Version": "2:1.24992-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0987831-866E01",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "php-illuminate-database",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "not yet assigned",
+          "Version": "5.7.27-1"
+        }
+      ]
+    }
+  ]
+}

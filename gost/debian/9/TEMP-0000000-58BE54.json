@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-58BE54",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "lintian",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.5.2",
+          "Urgency": "unimportant",
+          "Version": "2.5.50.4"
+        }
+      ]
+    }
+  ]
+}

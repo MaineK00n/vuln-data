@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0608822-EF2F16",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "calibre",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0.7.38+dfsg-1",
+          "Urgency": "not yet assigned",
+          "Version": "5.12.0+dfsg-1+deb11u1"
+        }
+      ]
+    }
+  ]
+}

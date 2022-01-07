@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0597382-058DA8",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "mingetty",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.07-2",
+          "Urgency": "low",
+          "Version": "1.08-2"
+        }
+      ]
+    }
+  ]
+}

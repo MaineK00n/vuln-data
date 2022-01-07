@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0306076-4B7D89",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "coreutils",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "5.93-1",
+          "Urgency": "low",
+          "Version": "8.26-3"
+        }
+      ]
+    }
+  ]
+}

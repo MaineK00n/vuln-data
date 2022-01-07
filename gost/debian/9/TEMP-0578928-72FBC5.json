@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0578928-72FBC5",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "gnome-orca",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.30.0-2",
+          "Urgency": "not yet assigned",
+          "Version": "3.22.2-3"
+        }
+      ]
+    }
+  ]
+}

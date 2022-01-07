@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0996913-660A41",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "rust-chrono",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "not yet assigned",
+          "Version": "0.4.19-3"
+        }
+      ]
+    }
+  ]
+}

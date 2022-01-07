@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-345A3B",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ruby-handlebars-assets",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "2:0.23.8+dfsg-4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0551907-963784",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "mandos",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.0.13-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.8.14-1"
+        }
+      ]
+    }
+  ]
+}

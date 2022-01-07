@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0418662-DC1CF3",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "mixmaster",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "3.0b2-5",
+          "Urgency": "low",
+          "Version": "3.0.0-8.1"
+        }
+      ]
+    }
+  ]
+}

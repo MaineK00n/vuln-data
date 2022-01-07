@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-D75F8B",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "gitlab-shell",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "3.6.6-4"
+        }
+      ]
+    }
+  ]
+}

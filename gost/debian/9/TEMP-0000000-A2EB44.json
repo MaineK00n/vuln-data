@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-A2EB44",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "x-face-el",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.3.6.23-1",
+          "Urgency": "not yet assigned",
+          "Version": "1.3.6.24-15"
+        }
+      ]
+    }
+  ]
+}

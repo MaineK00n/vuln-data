@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0841856-B18BAF",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "bash",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "5.0-4"
+        }
+      ]
+    }
+  ]
+}

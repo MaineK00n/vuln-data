@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0368804-259562",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ldap-account-manager",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.0.2-1.1",
+          "Urgency": "medium",
+          "Version": "5.5-1+deb9u1"
+        }
+      ]
+    }
+  ]
+}

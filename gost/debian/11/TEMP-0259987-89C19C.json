@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0259987-89C19C",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "bash-completion",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "200811xx~bzr1223",
+          "Urgency": "not yet assigned",
+          "Version": "1:2.11-2"
+        }
+      ]
+    }
+  ]
+}

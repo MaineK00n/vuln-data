@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0779573-6C7D15",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "bibtool",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.57+ds-3",
+          "Urgency": "not yet assigned",
+          "Version": "2.67+ds-5"
+        }
+      ]
+    }
+  ]
+}

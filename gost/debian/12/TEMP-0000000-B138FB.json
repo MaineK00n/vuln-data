@@ -1,0 +1,31 @@
+{
+  "CveID": "TEMP-0000000-B138FB",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ffmpeg",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0.cvs20060823-6",
+          "Urgency": "not yet assigned",
+          "Version": "7:4.4.1-2"
+        }
+      ]
+    },
+    {
+      "PackageName": "mplayer",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "1.0~rc1-12",
+          "Urgency": "not yet assigned",
+          "Version": "2:1.4+ds1-2"
+        }
+      ]
+    }
+  ]
+}

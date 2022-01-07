@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0508111-173336",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "devscripts",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.10.42",
+          "Urgency": "low",
+          "Version": "2.19.5+deb10u1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0770647-53FAC2",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "libclamunrar",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0.97.7+dfsg-1",
+          "Urgency": "not yet assigned",
+          "Version": "0.102.3-3"
+        }
+      ]
+    }
+  ]
+}

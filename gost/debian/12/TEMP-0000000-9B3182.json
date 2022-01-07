@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-9B3182",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "schroot",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "1.6.10-12"
+        }
+      ]
+    }
+  ]
+}

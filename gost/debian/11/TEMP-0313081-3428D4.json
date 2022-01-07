@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0313081-3428D4",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "findutils",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "4.2.22-1",
+          "Urgency": "not yet assigned",
+          "Version": "4.8.0-1"
+        }
+      ]
+    }
+  ]
+}

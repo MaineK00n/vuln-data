@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0302790-27DC0A",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "hdup",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.0.14-2",
+          "Urgency": "low",
+          "Version": "2.0.14-4"
+        }
+      ]
+    }
+  ]
+}

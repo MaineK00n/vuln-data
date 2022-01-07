@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0612034-33CBAD",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "aptitude",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "0.6.3-4",
+          "Urgency": "low",
+          "Version": "0.8.7-1"
+        }
+      ]
+    }
+  ]
+}

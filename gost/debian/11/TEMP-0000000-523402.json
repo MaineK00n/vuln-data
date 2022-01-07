@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-523402",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "brltty",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "0",
+          "Urgency": "unimportant",
+          "Version": "6.3+dfsg-1+deb11u1"
+        }
+      ]
+    }
+  ]
+}

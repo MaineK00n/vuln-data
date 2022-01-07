@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0407116-23D9EF",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "wordpress",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "2.0.7",
+          "Urgency": "unimportant",
+          "Version": "5.8.2+dfsg1-1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-4D04B7",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "maradns",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "1.0.27-1",
+          "Urgency": "not yet assigned",
+          "Version": "2.0.13-1.4"
+        }
+      ]
+    }
+  ]
+}

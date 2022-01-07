@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0780503-1359A5",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "icu",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "52.1-8",
+          "Urgency": "not yet assigned",
+          "Version": "67.1-7"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0330627-887F38",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "rkhunter",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.2.7-14",
+          "Urgency": "medium",
+          "Version": "1.4.2-6+deb9u1"
+        }
+      ]
+    }
+  ]
+}

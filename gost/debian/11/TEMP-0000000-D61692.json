@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-D61692",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "unace-nonfree",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "2.5-3",
+          "Urgency": "not yet assigned",
+          "Version": "2.5-9"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0267098-76A1A1",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "sredird",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "2.2.1-1.1",
+          "Urgency": "not yet assigned",
+          "Version": "2.2.1-2"
+        }
+      ]
+    }
+  ]
+}

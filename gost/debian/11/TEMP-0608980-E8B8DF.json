@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0608980-E8B8DF",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "lbreakout2",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "open",
+          "FixedVersion": "",
+          "Urgency": "unimportant",
+          "Version": "2.6.5-2"
+        }
+      ]
+    }
+  ]
+}

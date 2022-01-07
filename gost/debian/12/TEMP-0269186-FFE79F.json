@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0269186-FFE79F",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "asciijump",
+      "Release": [
+        {
+          "ProductName": "bookworm",
+          "Status": "resolved",
+          "FixedVersion": "0.0.6-1.2",
+          "Urgency": "not yet assigned",
+          "Version": "1.0.2~beta-10"
+        }
+      ]
+    }
+  ]
+}

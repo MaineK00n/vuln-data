@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0105562-0FE13B",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "crypt++el",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "2.91-2.1",
+          "Urgency": "low",
+          "Version": "2.94-3"
+        }
+      ]
+    }
+  ]
+}

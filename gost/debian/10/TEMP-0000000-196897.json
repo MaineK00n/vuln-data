@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-196897",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "php-htmlpurifier",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "4.3.0+dfsg1-1",
+          "Urgency": "unimportant",
+          "Version": "4.10.0-1"
+        }
+      ]
+    }
+  ]
+}

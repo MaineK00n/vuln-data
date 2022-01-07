@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0876540-D98160",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "pcb-rnd",
+      "Release": [
+        {
+          "ProductName": "stretch",
+          "Status": "resolved",
+          "FixedVersion": "1.1.4-2",
+          "Urgency": "not yet assigned",
+          "Version": "1.1.4-2"
+        }
+      ]
+    }
+  ]
+}

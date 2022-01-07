@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-F4C8D1",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "ejabberd",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "1.1.1-8",
+          "Urgency": "not yet assigned",
+          "Version": "21.01-2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0000000-3E4AC3",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "freedombox",
+      "Release": [
+        {
+          "ProductName": "bullseye",
+          "Status": "resolved",
+          "FixedVersion": "21.4.2",
+          "Urgency": "not yet assigned",
+          "Version": "21.4.4"
+        }
+      ]
+    }
+  ]
+}

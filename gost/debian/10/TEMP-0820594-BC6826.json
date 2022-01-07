@@ -1,0 +1,19 @@
+{
+  "CveID": "TEMP-0820594-BC6826",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "giflib",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "5.1.4-0.1",
+          "Urgency": "not yet assigned",
+          "Version": "5.1.4-3"
+        }
+      ]
+    }
+  ]
+}

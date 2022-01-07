@@ -1,0 +1,31 @@
+{
+  "CveID": "TEMP-0827346-22ED59",
+  "Scope": "",
+  "Description": "",
+  "Package": [
+    {
+      "PackageName": "automake-1.15",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1:1.15-3",
+          "Urgency": "unimportant",
+          "Version": "1:1.15.1-5"
+        }
+      ]
+    },
+    {
+      "PackageName": "automake1.11",
+      "Release": [
+        {
+          "ProductName": "buster",
+          "Status": "resolved",
+          "FixedVersion": "1:1.11.6-4",
+          "Urgency": "unimportant",
+          "Version": "1:1.11.6-5"
+        }
+      ]
+    }
+  ]
+}
